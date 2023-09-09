@@ -1,0 +1,71 @@
+[{
+"logo": "",
+"name": "STAR Jalsha", 
+"link": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd|X-Forwarded-For=202.133.72.98",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "52e49084f4e75343b9083db013c0d404:f1fbe049b38f5f372a811924515b571a" 
+}, {
+"logo": "",
+"name": "Colors Bangla HD", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Bengali_HD_MOB/WDVLive/index.mpd|X-Forwarded-For=202.133.72.98",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "e524d8392b6c555ca016b11970ad0f07:3f7a22edfe47052727f70701a472b689" 
+}, {
+"logo": "",
+"name": "ZEE Bangla HD", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Zee_Bangla_HD_MOB/WDVLive/index.mpd|X-Forwarded-For=202.133.72.98",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "91159e05d6c45bcc9586a6358fa2fbf9:23445ad11eb79efae433df70608e3b87" 
+}, {
+"logo": "",
+"name": "Enterr 10 বাংলা", 
+"link": "https://mhdtv.co.in/sunpro.php/bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd|X-Forwarded-For=202.133.72.98",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "27c72f370afa5ad9aea3f0abeb498d29:9c5655fdb51467aa90bea1e3fb978177" 
+}, {
+"logo": "",
+"name": "Enterr 10 Bangla", 
+"link": "https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "6de8374f15b5546a9a5250f9a6733dc1:4682d8de6face9b9f226aced1031f00d" 
+}, {
+"logo": "",
+"name": "SUN BANGLA", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/Sun_Bangla_MOB/WDVLive/index.mpd|X-Forwarded-For=202.133.72.98",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "549bd1347c255c15affa44e0607a9c05:1922fbb1ebad4a7ba0f3c77c67b34f89" 
+}, {
+"logo": "",
+"name": "SUN BANGLA Aliflaila", 
+"link": "https://cdn6.aliflailabd.com/sunbangla/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "549bd1347c255c15affa44e0607a9c05:1922fbb1ebad4a7ba0f3c77c67b34f89" 
+}]
